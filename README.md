@@ -28,4 +28,4 @@ pip install pyserial
 - ✅ Указание авторства обязательно
 
 Полный текст лицензии: [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)
-это система Рико и его турели
+это система Рико 
